@@ -1,7 +1,4 @@
 # multi-hand-detection
-This is a solid hand-tracking implementation using MediaPipe. To make this "GitHub-ready," a good `README.md` should explain what the project does, how to set it up, and how the logic works (especially your finger-counting and hand-type logic).
-
-Below is a professional Markdown template you can use for your repository.
 
 ---
 
@@ -92,4 +89,3 @@ Feel free to fork this project, open issues, or submit pull requests. If you'd l
 
 ---
 
-### Would you like me to help you add a specific feature next, like a "Gesture Volume Controller" using the `findDistance` method in your code?
